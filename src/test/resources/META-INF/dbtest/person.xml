@@ -4,4 +4,5 @@
     <STATIC_RESOURCE STATIC_RESOURCE_SEQ="2" TYPE="LINK" NAME="LINK_2" CONTENT="https://github.com/2"/>
     <STATIC_RESOURCE STATIC_RESOURCE_SEQ="3" TYPE="LINK" NAME="LINK_3" CONTENT="https://github.com/3"/>
     <STATIC_RESOURCE STATIC_RESOURCE_SEQ="4" TYPE="LINK" NAME="LINK_4" CONTENT="https://github.com/4"/>
+    <person id="1" firstname="Harald" lastname="Rot" town="Stockholm" country="SWE" zip="12345"/>
 </dataset>
